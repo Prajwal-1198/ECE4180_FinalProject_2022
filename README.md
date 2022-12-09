@@ -1,5 +1,5 @@
 # ECE4180_FinalProject_2022
-Accident Detection System Using MBed
+Accident Detection System
 
 * All the files for the project can be found [here](https://github.com/Prajwal-1198/ECE4180_FinalProject_2022).
 
